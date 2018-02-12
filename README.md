@@ -1,2 +1,0 @@
-# BitcoinandCryptocurrencyTechnologies
-Coursera course
